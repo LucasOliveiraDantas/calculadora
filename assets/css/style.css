@@ -91,3 +91,8 @@ body{
         transform: scale(1.2);
     }
 }
+@media screen and (max-width: 375px){
+    .ctn{
+        transform: scale(0.5);
+    }
+}
